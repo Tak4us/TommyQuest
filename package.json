@@ -1,0 +1,15 @@
+{
+  "name": "tommyquest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cedrick Takacs",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "phaser": "^3.60.0"
+  }
+}
